@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Open-source GIS
 
-[Project 1 Title](/projectpages/repo_spatial)
+[Create and manage geospatial data](/projectpages/repo_spatial)
 <img src="images/cosubs_rainfall_thumbnail.png?raw=true"/>
 
 ---

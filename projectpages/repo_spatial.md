@@ -22,7 +22,7 @@ if (isAwesome){
 
 ### 3. Visualizing results
 
-<img src="images/cosubs_rainfall_thumbnail.png?raw=true"/>
+<img src="../images/cosubs_rainfall_thumbnail.png?raw=true"/>
 
 ### 4. Summary and next steps
 
