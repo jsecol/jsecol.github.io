@@ -4,12 +4,12 @@
 
 ### 1. Creating spatial data using the sf (simple features) R package
 
-Point, line, and polygon features created from scratch and from existing spatial data (e.g., shapefiles). 
+Point, line, and polygon features created from scratch or from existing spatial data (e.g., shapefiles). 
 
-```javascript
-if (isAwesome){
-  return true
-}
+```R
+epa01_cosub2018 <- 
+  st_read("../../data/epa01_cosub2018.geojson", 
+          stringsAsFactors = FALSE)
 ```
 
 ### 2. Joining spatial data to external information
