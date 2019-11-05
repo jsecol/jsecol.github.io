@@ -6,7 +6,7 @@
 
 Point, line, and polygon features created from scratch or from existing spatial data (e.g., shapefiles). 
 
-```R
+```javascript
 epa01_cosub2018 <- 
   st_read("../../data/epa01_cosub2018.geojson", 
           stringsAsFactors = FALSE)
