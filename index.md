@@ -9,24 +9,27 @@
 <img src="images/cosubs_rainfall_thumbnail.png?raw=true"/>
 
 ---
+
+### Data visualization
+
 [Dashboards](/projectpages/repo_dataviz)
 <br><br>
 <img src="images/dashboard1_thumbnail.png?raw=true"/>
 
 ---
+
+### Statistics/machine learning
+
 [Project 3 Title](http://example.com/)
 <br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Contributing
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Safe Water](https://github.com/jsecol/safe-water)
+- [Prisons](https://github.com/jsecol/prisons)
 
 ---
 
