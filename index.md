@@ -5,6 +5,7 @@
 ### Open-source GIS
 
 [Create and manage geospatial data](/projectpages/repo_spatial)
+<br><br>
 <img src="images/cosubs_rainfall_thumbnail.png?raw=true"/>
 
 ---
