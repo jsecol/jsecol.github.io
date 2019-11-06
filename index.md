@@ -9,11 +9,13 @@
 <img src="images/cosubs_rainfall_thumbnail.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dashboards](/projectpages/repo_dataviz)
+<br><br>
+<img src="images/dashboard1_thumbnail.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
+<br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
