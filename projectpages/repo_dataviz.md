@@ -10,5 +10,16 @@ Set up app to load data and...
 server
 
 ui
-
 ```
+
+
+
+
+
+
+
+<br><br>
+
+For more details see this [Data Visualization GitHub Repo](https://github.com/jsecol/dataviz).
+
+  

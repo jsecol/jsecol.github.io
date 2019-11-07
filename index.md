@@ -20,7 +20,7 @@
 
 ### Statistics/machine learning
 
-[Project 3 Title](http://example.com/)
+[Logistic regression classifier](/projectpages/stat_logreg)
 <br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -33,9 +33,11 @@
 
 ---
 
+### Blog
 
-
+[NDS Blog](https://naturaldatasolutions.com/blog/)
 
 ---
+<br><br>
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
