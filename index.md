@@ -22,7 +22,7 @@
 
 [Logistic regression classifier](/projectpages/stat_logreg)
 <br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/logreg_thumbnail.jpg?raw=true"/>
 
 ---
 
