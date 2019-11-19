@@ -4,7 +4,7 @@
 
 ### I. flexdashboard R package examples
 
-<img src="images/dashboard1.JPG?raw=true"/>
+<img src="../images/dashboard1.JPG?raw=true"/>
 
 
 
