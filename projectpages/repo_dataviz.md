@@ -4,8 +4,9 @@
 
 ### I. flexdashboard R package examples
 
-<img src="../images/dashboard1.JPG?raw=true"/>
-
+<a href="https://jsvatutor.shinyapps.io/ExploreViolations_R01/">
+	<img src="../images/dashboard1.JPG?raw=true"/>
+</a>
 
 
 
