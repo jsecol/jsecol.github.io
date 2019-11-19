@@ -2,16 +2,9 @@
 
 **Project description:** Open source coding in R to create Shiny dashboards.
 
-### 1. Create shiny app
+### I. flexdashboard R package examples
 
-Set up app to load data and... 
-
-```javascript
-server
-
-ui
-```
-
+<img src="images/dashboard1.JPG?raw=true"/>
 
 
 
