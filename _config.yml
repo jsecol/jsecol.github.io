@@ -1,7 +1,7 @@
 title: Jim Sheehan # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data science (often) with an ecological bent
+  Data science (often) with an ecological focus
   <br><br>
   
 theme: jekyll-theme-minimal
